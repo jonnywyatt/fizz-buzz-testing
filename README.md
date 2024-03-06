@@ -4,3 +4,4 @@ Start in fizz-buzz.js. Do some manual testing by running some console.logs like 
 
 Switch to fizz-buzz.test.js and write tests for the fizzBuzz function.
 
+Run `npm test` to run the tests. Jest will automatically find the tests in fizz-buzz.test.js and run them.

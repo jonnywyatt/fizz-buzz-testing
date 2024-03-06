@@ -1,0 +1,14 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "Testing practice",
+  "main": "fizz-buzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

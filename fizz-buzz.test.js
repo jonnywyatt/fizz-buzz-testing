@@ -28,7 +28,7 @@ describe('FizzBuzz', () => {
 })
 describe('number', () => {
 
-      test('should if the number is divisible by 3, return Fizz', () => {
+      test('should if the number is not able to divisible by 3 or 5 return the number', () => {
             const result = fizzBuzz(11);
             expect(result).toEqual(11)
       })

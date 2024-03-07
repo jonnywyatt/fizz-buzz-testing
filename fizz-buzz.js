@@ -23,4 +23,4 @@ console.log(fizzBuzz(5)); // logs out "Buzz"
 
 console.log(fizzBuzz(15)); // logs out "FizzBuzz"
 
-console.log(fizzBuzz(7)); // logs out 7
+console.log(fizzBuzz(11)); // logs out 7
